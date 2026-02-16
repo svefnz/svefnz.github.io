@@ -1,7 +1,7 @@
 {
   "servers": [
     {
-      "name": "svefnz-render"
+      "name": "svefnz-render",
       "address": "https://anisette-v3-server-door.onrender.com"
     },
     {
