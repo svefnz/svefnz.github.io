@@ -1,6 +1,10 @@
 {
   "servers": [
     {
+      "name": "svefnz-render"
+      "address": "https://anisette-v3-server-door.onrender.com"
+    },
+    {
       "name": "svefnz",
       "address": "https://ani.lll.rest"
     },
